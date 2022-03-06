@@ -7,7 +7,7 @@ $processo = $ps[rand scalar @ps];
 my $linas_max='10';
 my $sleep='3';
 my @adms=("Blackz");
-my @canais="#freak";
+my @canais="#stauvit";
 my @nickname = ("DajjaL","fattys","eliter","vxbot","smufen","dual","lee","carro","frida",
 	"TeaMrx1","TeaMrx0","TeaMrx2","TeaMrx3","TeaMrx4","TeaMrx5","TeaMrx6","TeaMrx7",
 	"aVe","kmod","kmod2","uselib","raptor","tmpSH","pwned","w00t","DualDuo","Intel",
